@@ -2,10 +2,10 @@
 THIS WEB APP CAN BE USED TO READ THE LATEST NEWS HEADLINES
 
 SCREENSHOTS
-![BuzzBulletin](https://github.com/sharmatarun392000/BuzzBulletin/assets/83560354/1aa1a03b-c478-42ef-b378-8ec06076ce18)
-
 DARK MODE
 ![DarkMode](https://github.com/sharmatarun392000/BuzzBulletin/assets/83560354/f712055e-d99b-4370-a89e-52f5679afd40)
+
+![BuzzBulletin](https://github.com/sharmatarun392000/BuzzBulletin/assets/83560354/1aa1a03b-c478-42ef-b378-8ec06076ce18)
 
 LIGHT MODE
 ![LightMode](https://github.com/sharmatarun392000/BuzzBulletin/assets/83560354/685dfd85-b7e2-4544-9dad-f09346083978)
