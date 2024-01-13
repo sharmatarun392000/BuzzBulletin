@@ -1,11 +1,22 @@
-# Getting Started with Create React App
 
+THIS WEB APP CAN BE USED TO READ THE LATEST NEWS HEADLINES
+
+SCREENSHOTS
+![BuzzBulletin](https://github.com/sharmatarun392000/BuzzBulletin/assets/83560354/1aa1a03b-c478-42ef-b378-8ec06076ce18)
+
+DARK MODE
+![DarkMode](https://github.com/sharmatarun392000/BuzzBulletin/assets/83560354/f712055e-d99b-4370-a89e-52f5679afd40)
+
+LIGHT MODE
+![LightMode](https://github.com/sharmatarun392000/BuzzBulletin/assets/83560354/685dfd85-b7e2-4544-9dad-f09346083978)
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
