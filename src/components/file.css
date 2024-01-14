@@ -300,3 +300,47 @@ div
     height: 40px;
     color: white;
 }
+.dropdown
+{
+    height: 60px;
+    width: 180px;
+    position: fixed;
+    top: 120px;
+    left: 10px;
+    z-index: 100000;
+}
+#dropdownMenuButton1
+{
+    height: 50px;
+    width: 180px;
+    background-color: orange;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.dropdown-menu
+{
+    height: 700px;
+    overflow: scroll;
+    overflow-x: hidden;
+    width: 180px;
+    background-color: #0A1A26;
+    color: white;
+}
+
+#dropdownMenuButton1:hover
+{
+    border:2px solid blue;
+}
+
+.countrylistitem
+{
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+.countrylistitem:hover
+{
+    border-radius: 2px;
+    background-color: #1D2F3E;
+    cursor: pointer;
+}
