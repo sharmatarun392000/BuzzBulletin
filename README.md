@@ -1,14 +1,19 @@
 
-THIS WEB APP CAN BE USED TO READ THE LATEST NEWS HEADLINES
+THIS WEB APP CAN BE USED TO READ THE LATEST NEWS HEADLINES FROM 50+ COUNTRIES
 
 SCREENSHOTS
-DARK MODE
-![DarkMode](https://github.com/sharmatarun392000/BuzzBulletin/assets/83560354/f712055e-d99b-4370-a89e-52f5679afd40)
 
-![BuzzBulletin](https://github.com/sharmatarun392000/BuzzBulletin/assets/83560354/1aa1a03b-c478-42ef-b378-8ec06076ce18)
+DARK MODE
+
+![image](https://github.com/sharmatarun392000/BuzzBulletin/assets/83560354/18b1802f-65b8-4814-a9f5-bf0d722426c4)
+
+
+![image](https://github.com/sharmatarun392000/BuzzBulletin/assets/83560354/51ede76b-e3dc-409e-9afb-15b01f4fa33d)
+
 
 LIGHT MODE
-![LightMode](https://github.com/sharmatarun392000/BuzzBulletin/assets/83560354/685dfd85-b7e2-4544-9dad-f09346083978)
+![image](https://github.com/sharmatarun392000/BuzzBulletin/assets/83560354/68e0a8e9-fd3a-40a1-b10d-8bf3887a7cef)
+
 
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
